@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [PumlBook](https://github.com/isaaskin/pumlbook)
 
-- 🌱 I’m currently learning **Rust, Vue**
+- 🌱 I’m currently learning **Go, Vue**
 
 - 👀 I’m interested in **Flutter, Dart**
 
-- 💬 Ask me about **C, C++, C#, Bash, Python, HTML, CSS, JavaScript, TypeScript, React, Angular, Vue**
+- 💬 Ask me about **C, C++, C#, Bash, Python, HTML, CSS, JavaScript, TypeScript, React, Angular, Vue, Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
