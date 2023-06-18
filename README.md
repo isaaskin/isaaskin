@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">A passionate Software Developer who is interested in various programming/scripting languages and technologies. I am a self-learner and continuously learning new stuffs and improving my current skills day by day.</h3>
 
-- 🔭 I’m currently working on [PumlBook](https://github.com/isaaskin/pumlbook)
+- 🔭 I’m currently working on [BumlBook](https://github.com/isaaskin/bumlbook)
 
 - 🌱 I’m currently learning **Qt/QML, Vue**
 
