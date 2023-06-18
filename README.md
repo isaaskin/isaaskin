@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [PumlBook](https://github.com/isaaskin/pumlbook)
 
-- 🌱 I’m currently learning **Go, Vue**
+- 🌱 I’m currently learning **Qt/QML, Vue**
 
-- 👀 I’m interested in **Flutter, Dart, Rust**
+- 👀 I’m interested in **Rust**
 
 - 💬 Ask me about **C, C++, C#, Bash, Python, HTML, CSS, JavaScript, TypeScript, React, Angular, Vue, Go**
 
