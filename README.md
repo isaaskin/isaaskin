@@ -1,18 +1,62 @@
-<h1 align="center">Hi 👋, I'm Isa</h1>
-<h3 align="center">A passionate Software Developer who is interested in various programming/scripting languages and technologies. I am a self-learner and continuously learning new stuffs and improving my current skills day by day.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+</head>
+<body>
 
-- 🔭 I’m currently working on [BumlBook](https://github.com/isaaskin/bumlbook)
+<h1>👋 Hi, I'm [Your Name]</h1>
 
-- 🌱 I’m currently learning **Qt/QML, Vue**
+<h3>Embedded Systems Developer | Full-Stack Developer | IoT Enthusiast</h3>
 
-- 👀 I’m interested in **Rust**
+<p>Welcome to my GitHub! I'm a versatile developer with expertise in <strong>embedded systems</strong>, <strong>desktop applications</strong>, and <strong>web development</strong>, with a strong background in programming for <strong>ARM platforms</strong> and <strong>IoT devices</strong>. I have a passion for building <strong>scalable, efficient software</strong> across a variety of platforms, with hands-on experience in <strong>test automation</strong>, <strong>serial communication</strong>, and <strong>HMI development</strong>.</p>
 
-- 💬 Ask me about **C, C++, C#, Bash, Python, HTML, CSS, JavaScript, TypeScript, React, Angular, Vue, Go**
+<h3>🔧 Key Skills & Expertise</h3>
+<ul>
+    <li><strong>Embedded Development</strong>: C/C++ programming for ARM-based IoT devices, embedded Linux, Yocto.</li>
+    <li><strong>Desktop Application & Communication</strong>: Python, PyQt for UI development; integrated RS-485 protocol for communication; managed data with SQLite.</li>
+    <li><strong>Web Development</strong>: Python (Flask), Angular, JavaScript/TypeScript, REST API integration.</li>
+    <li><strong>Test Automation</strong>: Built and maintained automation tools using C#, C++, Python; optimized testing workflows and developed test plans.</li>
+    <li><strong>Database Management</strong>: PostgreSQL, SQLite for robust data handling and performance optimization.</li>
+    <li><strong>Serial Communication</strong>: Experience with RS-485 and Modbus protocols for system integration.</li>
+    <li><strong>HMI Application Development</strong>: Led a team developing intuitive UIs using Qt/QML and C++ for backend logic, focused on UI/UX design.</li>
+    <li><strong>RFID and Payment Terminals</strong>: Integration and development using C/Python.</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaaskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaaskin" height="30" width="40" /></a>
-</p>
+<h3>🚀 Projects</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p>Here are some highlights of my work:</p>
+<ul>
+    <li><strong>IoT & Embedded Systems</strong>:
+        <ul>
+            <li>Developed control systems for <strong>Heat Pumps</strong>, programming IoT boards using <strong>C++</strong> and integrating <strong>RS-485</strong> for system communication.</li>
+            <li>Created an embedded system for <strong>wireless digital stethoscopes</strong>, handling signal processing and data visualization with <strong>C++</strong> and <strong>Python</strong>.</li>
+        </ul>
+    </li>
+    <li><strong>Web Application Development</strong>:
+        <ul>
+            <li>Built a dynamic dashboard for monitoring automated pipelines using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Flask</strong>, and <strong>PostgreSQL</strong>.</li>
+            <li>Developed test automation tools with <strong>Python</strong>, <strong>BASH scripting</strong>, and <strong>SQLite</strong> in a Linux environment.</li>
+        </ul>
+    </li>
+    <li><strong>HMI Application</strong>:
+        <ul>
+            <li>Led the development of <strong>HMI</strong> applications using <strong>Qt/QML</strong> and <strong>C++</strong>, ensuring seamless interaction and UX design for end-users.</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>🏆 Certifications</h3>
+
+<ul>
+    <li><strong>ISTQB® Certified Tester Foundation Level</strong> – Demonstrating proficiency in software testing methodologies and best practices.</li>
+</ul>
+
+<h3>📫 Let's Connect!</h3>
+
+<p>Feel free to explore my repositories, reach out to collaborate, or connect with me on <a href="your-linkedin-profile">LinkedIn</a>.</p>
+
+</body>
+</html>
