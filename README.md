@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
 </head>
 <body>
 
-<h1>👋 Hi, I'm [Your Name]</h1>
+<h1>👋 Hi, I'm Isa</h1>
 
 <h3>Embedded Systems Developer | Full-Stack Developer | IoT Enthusiast</h3>
 
