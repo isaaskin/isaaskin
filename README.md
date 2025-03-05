@@ -15,4 +15,3 @@ Welcome to my GitHub! I'm an experienced **Embedded Software Engineer** with a s
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/isaaskin)
-- 📂 [GitHub](https://github.com/isaaskin)
